@@ -1,0 +1,9 @@
+Package: com.tonykraft.nocontrolcenter
+Name: NoControlCenter
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: No Control Center, ever.
+Maintainer: Tony Kraft
+Author: Tony Kraft
+Section: Tweaks
